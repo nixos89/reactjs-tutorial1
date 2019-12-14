@@ -13,7 +13,7 @@ function Square(props) {
 
 }
 
-
+//some comment
 class Board extends React.Component {
     renderSquare(i) {
         return (
