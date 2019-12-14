@@ -47,7 +47,7 @@ class Board extends React.Component {
         );
     }
 }
-
+// more comments
 class Game extends React.Component {
     constructor(props) {
         super(props);
